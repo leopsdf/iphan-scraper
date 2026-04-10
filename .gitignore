@@ -11,3 +11,8 @@ figures/
 *.pdf
 *.zip
 *.tar.gz
+*.html
+
+*raggedright*
+
+
