@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+downloads/
+entrega_final_iphan/
+data/
+reports/
+figures/
+
+*.pdf
+*.zip
+*.tar.gz
