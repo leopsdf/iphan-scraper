@@ -55,5 +55,5 @@ Este projeto sustenta um estudo sobre:
 
 #Autor
 Leonardo de Paiva Souza
-Universidade de Brasília (UnB)
+- Universidade de Brasília (UnB)
 
