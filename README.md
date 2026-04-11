@@ -1,13 +1,10 @@
 #Curadoria Digital Orientada por Dados em Acervos Institucionais de Patrimônio Cultural
-
 Este repositório contém a implementação da pipeline desenvolvida para coleta, estruturação, auditoria e análise de publicações digitais do portal do Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN).
 
 #Contexto
-
 O projeto foi desenvolvido no contexto de uma pesquisa sobre curadoria digital, organização da informação e uso de dados em acervos institucionais, com aplicação no artigo submetido ao WIDaT 2026.
 
 #Objetivo
-
 Transformar um conjunto de publicações digitais dispersas em uma base estruturada, auditável e reutilizável, apoiando práticas de:
 
 - curadoria digital
@@ -17,7 +14,6 @@ Transformar um conjunto de publicações digitais dispersas em uma base estrutur
 - análise de acervos culturais
 
 #Pipeline desenvolvida
-
 A abordagem implementada segue uma pipeline composta por:
 
 1. Coleta automatizada de metadados
@@ -28,7 +24,6 @@ A abordagem implementada segue uma pipeline composta por:
 6. Geração de artefatos (catálogo, relatórios e gráficos)
 
 #Estrutura do projeto
-
 iphan_scraper/
 ├── scripts/ # scripts Python
 ├── data/ # dados brutos e processados
@@ -38,7 +33,6 @@ iphan_scraper/
 
 
 #Tecnologias utilizadas
-
 - Python
 - requests
 - BeautifulSoup
@@ -46,14 +40,12 @@ iphan_scraper/
 - matplotlib
 
 #Resultados
-
 - 1.132 registros catalogados
 - 559 downloads realizados
 - 555 títulos únicos
 - identificação de duplicidades e lacunas no acervo
 
 #Aplicação
-
 Este projeto sustenta um estudo sobre:
 
 - curadoria digital
@@ -62,7 +54,6 @@ Este projeto sustenta um estudo sobre:
 - dados em patrimônio cultural
 
 #Autor
-
 Leonardo de Paiva Souza
 Universidade de Brasília (UnB)
 
